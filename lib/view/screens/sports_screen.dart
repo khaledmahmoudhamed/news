@@ -1,0 +1,37 @@
+import 'package:api_test1/view/widgets/sports_widget.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+
+import '../../controller/cupit/app_cubit.dart';
+import '../../controller/cupit/app_state.dart';
+
+class Sports extends StatefulWidget {
+  const Sports({super.key});
+
+  @override
+  State<Sports> createState() => _SportsState();
+}
+
+class _SportsState extends State<Sports> {
+  @override
+  Widget build(BuildContext context) {
+    AppCubit cubit = AppCubit.get(context);
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text("Sports News",
+          style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),),
+        backgroundColor: Colors.teal,
+      ),
+      body: BlocBuilder<AppCubit, AppState>(
+        builder: (context, state) {
+          return ListView.builder(
+              itemCount: cubit.sports.length,
+              itemBuilder: (context, index) {
+                return sports(cubit.sports[index]);
+              }
+          );
+        },
+      ),
+    );
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 66,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Karen Friar",
+      "title": "Stocks slide as worries about inflation revive: Stock market news today - Yahoo Finance",
+      "description": "Stocks fell on Wednesday, as rising oil prices fueled concerns about inflation and faltering global demand.",
+      "url": "https://finance.yahoo.com/news/stocks-slide-as-worries-about-inflation-revive-stock-market-news-today-110557462.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xAsBy9bV1GuVKU6UmHYbRw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/54e02af0-4c3c-11ee-bfba-2897029bb84d",
+      "publishedAt": "2023-09-06T16:22:06Z",
+      "content": "Stocks fell on Wall Street on Wednesday, on track for another losing day as lingering concerns about inflation spurred doubts the Federal Reserve will decide to cut interest rates anytime soon.\r\nIn m… [+6151 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": null,
+      "title": "States, Google settle app store antitrust case - POLITICO",
+      "description": "Epic Games and Match Group are still set for a November courtroom showdown with the internet giant.",
+      "url": "https://www.politico.com/news/2023/09/06/states-google-settle-app-store-antitrust-case-00114176",
+      "urlToImage": "https://static.politico.com/4c/53/02840c1a4aad8a48b1acb9bb1aea/canada-meta-google-news-78809.jpg",
+      "publishedAt": "2023-09-06T15:47:20Z",
+      "content": "The settlement terms in the app store case were not disclosed, and the agreement is subject to approval by the state attorneys general and the board of directors of Alphabet, Googles parent company. … [+1673 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KCRA Sacramento"
+      },
+      "author": "Mike Cherry",
+      "title": "California DMV allows 1.5 million people to get a mobile driver’s license. Where it can be used - KCRA Sacramento",
+      "description": "The Department of Motor Vehicles is allowing more than a million people to get a digital driver's license in California.",
+      "url": "https://www.kcra.com/article/ca-dmv-digital-mobile-drivers-licenses/45014716",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/cb6d0501-5a1c-4448-9bee-b46b04a15c97/5956df04-ceef-4ae9-af5a-54077432d3fe.jpg?crop=0.647xw:0.647xh;0.178xw,0.160xh&resize=1200:*",
+      "publishedAt": "2023-09-06T15:46:00Z",
+      "content": "The Department of Motor Vehicles is allowing more than a million people to get a digital driver's license in California. \r\nThe DMV has opened up its mobile drivers license program to the first 1.5 mi… [+1620 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Candice Choi",
+      "title": "AMC Stock Falls After Movie Chain Announces Share Sale - The Wall Street Journal",
+      "description": "Live coverage of what's moving stocks and other markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-09-06-2023",
+      "urlToImage": "https://images.wsj.net/im-847391/social",
+      "publishedAt": "2023-09-06T15:38:00Z",
+      "content": "Shares of AMC Entertainment traded sharply lower Wednesday morning after the company announced a plan to sell up to 40 million common shares.\r\nThe stock was recently down 29% at $9.67, on pace for a … [+257 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lillian Rizzo",
+      "title": "Comcast, Disney move up deadline to decide Hulu future ownership - CNBC",
+      "description": "Comcast and Disney have been in discussions regarding Hulu's valuation.",
+      "url": "https://www.cnbc.com/2023/09/06/comcast-disney-move-up-deadline-to-decide-hulu-future-ownership.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106938185-1631041700661-gettyimages-1235079905-RAFAPRESS_05092021-0844.jpeg?v=1694013496&w=1920&h=1080",
+      "publishedAt": "2023-09-06T15:18:16Z",
+      "content": "The timeline to decide Hulu's ownership fate has been moved up, Comcast CEO Brian Roberts said Wednesday.\r\nComcast and Disney are set to begin those discussions on September 30, months earlier than t… [+3476 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WLKY Louisville"
+      },
+      "author": "Alex Suckow",
+      "title": "JCPS bus driver wins $100K on Powerball, immediately retires - WLKY Louisville",
+      "description": "\"I loved my job, but I’d been thinking about retiring for a while,\" he told lottery officials.",
+      "url": "https://www.wlky.com/article/jcps-bus-driver-wins-lottery-louisville-retires/45022786",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/james-keown-hor-64f897fb9e379.jpg?crop=1.00xw:0.742xh;0,0.0710xh&resize=1200:*",
+      "publishedAt": "2023-09-06T15:18:00Z",
+      "content": "LOUISVILLE, Ky. —A Jefferson County Public Schools bus driver is retiring after winning big on the Powerball.\r\nKentucky Lottery officials said James Keown won $100,o00 recently, and immediately told … [+1506 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Ben Levisohn",
+      "title": "Roku Stock Jumps After It Said It Would Lay Off 10% of Its Workforce - Barron's",
+      "description": "It will also reduce office space and look at other sources of cost savings.",
+      "url": "https://www.barrons.com/articles/roku-stock-price-layoffs-56158dd6",
+      "urlToImage": "https://images.barrons.com/im-330044/social",
+      "publishedAt": "2023-09-06T15:00:00Z",
+      "content": "Roku\r\nstock was jumping after the company said that it would fire 10% of its workforce, continuing a series of moves begun in late 2022. \r\nIn a filing with the Securities and Exchange Commission, Rok… [+1580 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "Dow Jones Sinks Further Below 50-Day Line; Apple, Microsoft Fall As Software Earnings Disappoint - Investor's Business Daily",
+      "description": null,
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-below-50-day-line-apple-microsoft-fall-amid-more-software-earnings/",
+      "urlToImage": null,
+      "publishedAt": "2023-09-06T14:57:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Al Root",
+      "title": "GM, Ford, and Even Tesla Will Pay Rising Labor Costs—Strike or No Strike - Barron's",
+      "description": "A strike or new contract will raise labor costs for General Motors, Ford, and Stellantis, but even nonunion automakers such as Rivian and Tesla are facing increasing wages.",
+      "url": "https://www.barrons.com/articles/gm-ford-tesla-auto-workers-strike-5e61abca",
+      "urlToImage": "https://images.barrons.com/im-20773659/social",
+      "publishedAt": "2023-09-06T14:54:00Z",
+      "content": "There are about eight and a half days left before the United Auto Workers labor deal with the Detroit-Three automakers expires Sept. 14. After that, a strike is almost assured. Some on Wall Street ar… [+3357 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "WeWork Stock (WE) Jumps on Plan to Renegotiate Leases, Closing Some Locations - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2023-09-06/wework-shares-jump-on-plan-to-renegotiate-nearly-all-leases",
+      "urlToImage": null,
+      "publishedAt": "2023-09-06T14:50:58Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Pauline Lockwood, Jennifer Korn",
+      "title": "Wall Street Journal: China bans use of iPhones for government officials - CNN",
+      "description": "China has banned the use of iPhones for central government officials, The Wall Street Journal reported, citing unnamed people familiar with the matter.",
+      "url": "https://www.cnn.com/2023/09/06/tech/china-government-official-iphone-ban/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230906084922-china-iphone-use-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-09-06T14:34:00Z",
+      "content": "China has banned the use of iPhones for central government officials, The Wall Street Journal reported, citing unnamed people familiar with the matter.\r\nThe WSJ reports that managers have been notify… [+1608 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": "Adam Samson",
+      "title": "Erdoğan abandons cheap money to counter Turkey's soaring inflation - Financial Times",
+      "description": "President vows to use ‘tight monetary policy’ in sharp about-turn",
+      "url": "https://www.ft.com/content/63a9de8b-de5c-4044-a250-40d691c4ceed",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F48d836ba-ecce-471c-a2b0-d515d4067823.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2023-09-06T14:03:02Z",
+      "content": "Turkish president Recep Tayyip Erdoan has abandoned his life-long hostility to interest rate rises, vowing to use tight monetary policy to cool rampant price growth as his government acknowledged inf… [+3367 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Elon Musk borrowed $1 billion from SpaceX in same month of Twitter deal, Wall Street Journal reports - Reuters",
+      "description": null,
+      "url": "https://families.google.com/service-restricted",
+      "urlToImage": null,
+      "publishedAt": "2023-09-06T14:02:12Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Moderna: Updated Covid vaccine is effective against newer variant - CNBC Television",
+      "description": "CNBC's Angelica Peebles reports on the latest news from Moderna. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeI...",
+      "url": "https://www.youtube.com/watch?v=YnxCJEBTsfM",
+      "urlToImage": "https://i.ytimg.com/vi/YnxCJEBTsfM/maxresdefault.jpg",
+      "publishedAt": "2023-09-06T14:01:09Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "Services PMI® at 54.5%; August 2023 Services ISM® Report On Business® - PR Newswire",
+      "description": "/PRNewswire/ -- Economic activity in the services sector expanded in August for the eighth consecutive month as the Services PMI® registered 54.5 percent, say...",
+      "url": "https://www.prnewswire.com/news-releases/services-pmi-at-54-5-august-2023-services-ism-report-on-business-301918588.html",
+      "urlToImage": "https://mma.prnewswire.com/media/327063/institute_for_supply_management_logo.jpg?p=facebook",
+      "publishedAt": "2023-09-06T14:00:00Z",
+      "content": "Business Activity Index at 57.3%; New Orders Index at 57.5%; Employment Index at 54.7%; Supplier Deliveries Index at 48.5%\r\nTEMPE, Ariz., Sept. 6, 2023 /PRNewswire/ -- Economic activity in the servic… [+37688 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Michelle Singletary",
+      "title": "Advice | Being 20-something is a gift for retirement planning. Here's why. - The Washington Post",
+      "description": "Here are five reasons why you should start saving for retirement in your 20s.",
+      "url": "https://www.washingtonpost.com/business/2023/09/06/saving-retirement-planning-20s/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HIFJQDJSBFGJJGB7VQJWTP4FDA.jpg&w=1440",
+      "publishedAt": "2023-09-06T14:00:00Z",
+      "content": "Comment on this story\r\nComment\r\nIts been a year since my youngest daughter started her first full-time job, and she still hasnt signed up for her workplace retirement account.\r\nIts not that she doesn… [+6782 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Ryan Browne",
+      "title": "Qualcomm CEO says AI may breathe new life into smartphones: 'It could create a new upgrade cycle' - CNBC",
+      "description": "The CEO of U.S. chip giant Qualcomm thinks artificial intelligence could give the smartphone market a fresh lease on life.",
+      "url": "https://www.cnbc.com/2023/09/06/qualcomm-ceo-ai-may-breathe-new-life-into-smartphones.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106996913-1641387321065-gettyimages-1362782272-em017810_20220104121150111.jpeg?v=1694007653&w=1920&h=1080",
+      "publishedAt": "2023-09-06T13:40:53Z",
+      "content": "The CEO of U.S. chip giant Qualcomm thinks artificial intelligence could give the smartphone market a fresh lease on life.\r\nSpeaking in an interview with CNBC's Arjun Kharpal on Tuesday, Qualcomm CEO… [+1807 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Ramishah Maruf",
+      "title": "Trump’s Truth Social merger partner granted key extension to avoid liquidation - CNN",
+      "description": "Digital World Acquisition Corp., the blank-check firm seeking to merge with former President Donald Trump’s media company, will get another extension to complete its troubled deal.",
+      "url": "https://www.cnn.com/2023/09/06/investing/trump-truth-social-digital-world-acquisition-merger/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230905125247-truth-social-app-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-09-06T13:39:00Z",
+      "content": "Digital World Acquisition Corp., the blank-check firm seeking to merge with former President Donald Trumps media company, will get another extension to complete its troubled deal.\r\nShareholders voted… [+2260 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Chris Isidore",
+      "title": "Federal safety regulators push to recall 52 million air bags - CNN",
+      "description": "Federal safety regulators are pushing to get 52 million air bags recalled due to the threat that they could explode, severely injuring or even killing a car’s occupants.",
+      "url": "https://www.cnn.com/2023/09/06/business/air-bag-recall/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230906080529-steering-wheel-hands-stock.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-09-06T13:22:00Z",
+      "content": "Federal safety regulators are pushing to get 52 million air bags recalled due to the threat that they could explode, severely injuring or even killing a cars occupants.\r\nThe National Highway Traffic … [+2456 chars]"
+    }
+  ]
+}
